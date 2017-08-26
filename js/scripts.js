@@ -49,6 +49,7 @@ var clearValues = function(){
   $(".player2Name").val("");
 }
 
+
 // User Interface
 $(document).ready(function() {
 
