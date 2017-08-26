@@ -1,4 +1,4 @@
-//business logic
+//business logic :contructors and prototype
 var player1="";
 var player2="";
 
